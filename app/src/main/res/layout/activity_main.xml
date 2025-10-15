@@ -35,21 +35,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Hutan Pinus Mangunan"
-                android:textSize="25dp"
+                android:textSize="25sp"
                 android:textStyle="bold"
                 />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Hutan Pinus Mangunan, begitulah bagian dari hutan di Mangunan yang ditumbuhi tanaman Pinus merkusii ini disebut. Lokasinya yang bisa ditempuh searah dengan situs makam Raja-Raja Imogiri membuat banyak orang salah menyebutnya menjadi Hutan Pinus Imogiri, terutama wisatawan yang berasal dari luar Jogja. Padahal secara administratif hutan pinus ini tidak termasuk kawasan Imogiri."
-                android:textSize="15dp"
+                android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingTop="5dp"
                 android:text="-Irfan Habibi"
-                android:textSize="15dp"
+                android:textSize="15sp"
                 android:textStyle="bold"
 
                 />
@@ -93,7 +93,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Air Terjun Sri Gethuk"
-                android:textSize="25dp"
+                android:textSize="25sp"
                 android:textStyle="bold"
 
                 />
@@ -102,7 +102,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Terletak di Desa Wisata Bleberan, Air Terjun Sri Gethuk menjadi salah satu spot wisata yang sayang untuk dilewatkan. Untuk mencapai tempat ini Anda harus naik kendaraan melewati areal hutan kayu putih milik PERHUTANI dengan kondisi jalan yang bervariasi mulai dari aspal bagus hingga jalan makadam. Memasuki Dusun Menggoran, tanaman kayu putih berganti dengan ladang jati yang rapat. Sesampainya di areal pemancingan yang juga berfungsi sebagai tempat parkir, terdapat dua pilihan jalan untuk mencapai air terjun."
-                android:textSize="15dp"
+                android:textSize="15sp"
                 />
 
 
@@ -111,7 +111,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="-Irfan Habibi"
-                android:textSize="15dp"
+                android:textSize="15sp"
                 android:textStyle="bold"
                 android:paddingTop="5dp"
 
@@ -152,7 +152,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Gunung Gambar"
-                android:textSize="25dp"
+                android:textSize="25sp"
                 android:textStyle="bold"
 
                 />
@@ -161,14 +161,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Terletak di Kecamatan Ngawen, Gunungkidul yang berbatasan dengan Kabupaten Klaten Jawa Tengah, Gunung Gambar memiliki banyak catatan unik baik dari sisi geologis, sejarah, maupun lokasi. Sama halnya dengan Gunung Nglanggeran yang berada dalam zona karst Baturagung, litologi Gunung Gambar tersusun dari fragmen material vulkanik tua. Secara visual tempat ini tidak menyerupai gunung tinggi pada umumnya, melainkan bukit dengan puncak berupa bongkahan batuan karst berukuran besar."
-                android:textSize="15dp"
+                android:textSize="15sp"
                 />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="-Irfan Habibi"
-                android:textSize="15dp"
+                android:textSize="15sp"
                 android:textStyle="bold"
                 android:paddingTop="5dp"
 
@@ -242,7 +242,7 @@
         android:fontFamily="sans-serif-condensed-medium"
         android:text="Find Your Trip"
         android:textColor="#FFFFFF"
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
