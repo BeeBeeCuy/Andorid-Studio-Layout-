@@ -66,7 +66,7 @@
                     android:layout_width="5dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Buka"
+                    android:text="Suka"
                     android:layout_marginEnd="8dp"
                     app:layout_constraintStart_toStartOf="parent" />
 
@@ -128,7 +128,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Buka"
+                    android:text="Suka"
                     android:layout_marginEnd="8dp"
                     app:layout_constraintStart_toStartOf="parent" />
 
@@ -185,7 +185,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Buka"
+                    android:text="Suka"
                     android:layout_marginEnd="8dp"
                     app:layout_constraintStart_toStartOf="parent" />
 
@@ -216,7 +216,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="5dp"
-        android:text="Saya Ada Di Bawah"
+        android:text="Buy Ticket"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
